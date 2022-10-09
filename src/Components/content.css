@@ -1,0 +1,25 @@
+.card1{
+    padding:4px ;
+    padding-left:3px;
+    /* border:1px solid black; */
+    margin:8px 10px 8px 10px;
+    
+}
+
+.main{
+    position: relative;
+     left: 210px;
+     top:-580px;
+}
+
+.content{
+    display: inline-flex;
+    /* border:1px solid black; */
+    width:1100px
+}
+
+
+.Card{
+    width: 250px;
+    height:140px;
+}

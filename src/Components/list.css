@@ -1,0 +1,50 @@
+*{
+    font-size:12px;
+    font-weight:bold;
+   
+}
+
+
+.list{
+    width: 1120px;
+    
+    
+     position: relative;
+     left: px;
+     bottom:12px;
+     top: -575px;
+    
+}
+
+.ls{
+    display:flex;
+    list-style: none;
+    
+    
+    border:1px solid gainsboro;
+    padding:12px;
+}
+
+.ls .liD{
+    margin:0 10px 0 10px;
+    padding: 5px 10px 5px 10px ;
+    border:1px solid gray;
+    border-radius:20px;
+    width:fit-content;
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    -ms-border-radius:20px;
+    -o-border-radius:20px;
+}
+
+.ls .liD:hover{
+    cursor:pointer;
+}
+
+.ls :first-child{
+    background-color: black;
+    color:antiquewhite;
+    border:none;
+    text-align: center;
+}
+

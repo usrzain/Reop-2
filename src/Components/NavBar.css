@@ -1,0 +1,59 @@
+img{
+    display:inline-block;
+    width: 100px;
+}
+
+.logo:hover{
+   cursor:pointer;
+}
+span{
+    display:inline-block;
+}
+
+.input{
+    width:580px;
+    height:30px;
+    position:relative;
+    bottom: 8px;
+    margin-left: 200px;
+    font-size: 12px
+
+}
+
+
+.search{
+    height:36px;
+    width:50px;
+    border:1px solid gray;
+    border-left: none;
+    text-align: center;
+    position:relative;
+    
+    
+}
+
+.search:hover{
+    cursor: pointer;
+}
+
+
+
+.mic{
+    margin-left: 16px;
+}
+
+
+.extra{
+    display: inline-flex ;
+    align-items: right;
+    justify-content: flex-end;
+    
+    width: 350px;;
+    
+}
+
+
+.mg{
+    margin:0 16px 0 16px;
+    
+}
